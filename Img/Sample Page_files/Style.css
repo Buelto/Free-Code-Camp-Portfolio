@@ -1,0 +1,195 @@
+    body,
+    div,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    ul,
+    img {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .container {
+        width: 800px;
+        margin: auto;
+    }
+    
+    #main {
+        background: url(Image/images.PNG/HeaderSlice.PNG) repeat-x;
+    }
+    
+    #main .container {
+        background: url(Image/images.PNG/LongHeaderSlice.png) no-repeat;
+    }
+    
+    #logo {
+        background: url(Image/images.PNG/FullLogo.png) no-repeat;
+        height: 85px;
+        width: 260px;
+        float: left
+    }
+    
+    #logo h1 {
+        text-indent: -8000px;
+    }
+    
+    #header {
+        padding-top: 47px;
+    }
+    
+    #tagline {
+        float: left;
+        margin-left: 30px;
+        margin-top: 15px;
+    }
+    
+    #tagline h3 {
+        font-size: 30px;
+        color: whitesmoke
+    }
+    
+    ul#navigator {
+        list-style: none;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    
+    #navigator li a {
+        font-size: 30px;
+        color:burlywood;
+        text-decoration: none;
+        float: left;
+        padding-right: 105px;
+    }
+    
+    #navigator li  {
+        float: left;
+        padding-right: 105px;
+        width: 95px
+    }
+    
+    #content h3 {
+        font-size: 24px;
+        color: #444444;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    #content h2 {
+        font-size: 36px;
+        color: #a4260d;
+        padding-top: 25px;
+    }
+    
+    #content p {
+        font-size: 14px;
+        color: # 595858;
+        Padding-top: 20px;
+    }
+    
+    #content small {
+        font-size: 12px;
+        color: #373737;
+    }
+    
+    #content a {
+        color: #0f6s8d;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    
+    body {
+        font-family: Arial, helvetica, sans-serif;
+        background-color: #ebe8e8;
+    }
+    
+    #news {
+        padding-top: 10px;
+    }
+    
+    #news h3 {
+        padding-bottom: 10px;
+    }
+    
+    #news p {
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+    
+    #content {
+        width: 510px;
+        float: left;
+    }
+    
+    #sidebar {
+        float: left;
+        margin-top: 55px;
+        margin-left: 55px;
+        background-color: #d4d6d3;
+        border: 1px solid #bebdbd;
+        padding: 15px 15px 30px 15px
+    }
+    
+    #sidebar h3 {
+        font-size: 24px;
+        color: #a4260d;
+        font font-weight: normal;
+        padding-bottom: 20px;
+        padding-left: 25px;
+    }
+    
+    #sidebar ul li a {
+        font-size: 14px;
+        color: #393838;
+    }
+    
+    ul#biglink li a {
+        font-size: 18px;
+        padding-bottom: 0px;
+    }
+    
+    ul#biglink li {
+        padding-bottom: 6px;
+        padding-left: 35px;
+    }
+    
+    #sidebar ul {
+        list-style: none;
+        padding-bottom: 25px;
+    }
+    
+    #rss {
+        background: url(Image/images.PNG/RSSNewsFeedIcon30px.PNG)no-repeat;
+    }
+    
+    li#email {
+        background: url(Image/images.PNG/MailIcon30px.PNG)no-repeat;
+    }
+    
+    li#twitter {
+        background: url(Image/images.PNG/TwitterIcon30px.PNG)no-repeat;
+    }
+    
+    a.button {
+        color: #393838;
+        text-decoration: none;
+        background: url(Image/images.PNG/JoinOurTeamButtonSlice.png)repeat-x;
+        margin-left: 30px;
+        padding: 11px;
+        border: 1px solid #D4A017;
+        
+    }
+
+#footer{background: url(Image/images.PNG/FooterSlice.png)repeat-x;
+padding-top: 20px;
+padding-bottom:60px;
+margin-top:40px;
+color:#fff;}
